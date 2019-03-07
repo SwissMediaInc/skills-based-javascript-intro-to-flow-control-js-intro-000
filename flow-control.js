@@ -40,14 +40,14 @@ console.log("You are a teenager");
             break;
             case 16:
 console.log("You are a teenager");
-          break;
-              case 17:
+break;
+      case 17:
 console.log("You are a teenager");
-            break;
-                case 18:
+      break;
+    case 18:
 console.log("You are a teenager");
-            break;
-                  case 19:
+      break;
+    case 19:
 console.log("You are a teenager");
             break;
     default:
