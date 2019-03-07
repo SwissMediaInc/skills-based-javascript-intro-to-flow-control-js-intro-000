@@ -51,7 +51,7 @@ function switchAge(age) {
                   console.console.log("You are a teenager");
                     break;
     default:
-    console.console.log("You have an age");
+    console.log("You have an age");
 
   }
 
